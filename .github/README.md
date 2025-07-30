@@ -4,6 +4,9 @@
 
 DazaiRobot is a powerful Telegram bot designed to help you manage your Telegram groups efficiently. With DazaiRobot, you can automate various tasks, moderate discussions, and enhance the overall experience for your group members.
 
+# Some bots that are made on Dazai Robot.
+• [Marin Kitagawa](t.me/MarinKitagawa_Robot)
+
 ## Features
 
 - **Member Management**: Add, remove, and ban members easily.
